@@ -119,6 +119,7 @@
 
   .btn--form {
     margin-top: 1.2rem;
+    z-index: 1000;
   }
 
   /* MOBILE NAVIGATION */
